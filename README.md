@@ -20,7 +20,7 @@ pip install python-pptx openai python-dotenv nest_asyncio
 
 ### Azure OpenAI 설정
 - Azure OpenAI 서비스 구독
-- **GPT-4o** 또는 **GPT-4 Turbo** 모델 배포 (권장)
+- **GPT-4o** 또는 **GPT-4.1** 모델 배포 (권장)
 - API 키 및 엔드포인트
 
 ## 🛠️ 설치 및 설정
